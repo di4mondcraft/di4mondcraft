@@ -1,2 +1,2 @@
-Python and a bit of html,				
+ I do Python and a bit of html,				
 thats pretty much it
